@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\Towers\sTowerGun.cs">
+    <Files>
+      <File FileName="assets\Scripts\Creeps\sCreepSpawner.cs" Line="10" Column="1" />
+      <File FileName="assets\Scripts\Towers\sTowerGun.cs" Line="26" Column="4" />
+      <File FileName="assets\Scripts\sGameInfo.cs" Line="16" Column="3" />
+      <File FileName="assets\Scripts\Players\sPlayerSettings.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Towers\sGenericEffect.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
